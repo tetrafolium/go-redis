@@ -4,8 +4,8 @@ import (
 	"context"
 	"time"
 
-	"github.com/go-redis/redis/v8/internal/proto"
-	"github.com/go-redis/redis/v8/internal/util"
+	"github.com/tetrafolium/go-redis/v8/internal/proto"
+	"github.com/tetrafolium/go-redis/v8/internal/util"
 	"go.opentelemetry.io/otel"
 	"go.opentelemetry.io/otel/trace"
 )

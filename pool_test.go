@@ -4,7 +4,7 @@ import (
 	"context"
 	"time"
 
-	"github.com/go-redis/redis/v8"
+	"github.com/tetrafolium/go-redis/v8"
 
 	. "github.com/onsi/ginkgo"
 	. "github.com/onsi/gomega"
